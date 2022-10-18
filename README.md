@@ -1,3 +1,0 @@
-# Proyecto Carrito
-
-- hello world
